@@ -1,6 +1,6 @@
 ## Colorbrewer ArcMap Extension
 
-This extension allows the user to symbolize vector data using Colorbrewer configurations imported from the included *cb.csv*.
+This extension allows the user to symbolize vector data using Colorbrewer configurations imported from the included *cb.csv*.  You must have ArcMap installed and the current installation procedure requires the use of Visual Studio.
 
 Point and polygon data is supported.  Line data is not supported.  The user can choose between simple fill and classbreaks for numeric fields.
 
