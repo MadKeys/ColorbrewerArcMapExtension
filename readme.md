@@ -17,4 +17,4 @@ To install the Colorbrewer Extension:
 8. Save *ColorbrewerExtension.cs*
 9. Build the project
 10. Start debugging. ArcMap will launch.
-11. Use _Customize_ -> _Customize Mode_ -> _Add From File_ to install the extension using the AddIn file.
+11. Use __Customize__ -> __Customize Mode__ -> __Add From File__ to install the extension using the AddIn file.
